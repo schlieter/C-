@@ -1,0 +1,5 @@
+E:\c#\SchlieterCristian\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.dll
+E:\c#\SchlieterCristian\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.pdb
+E:\c#\SchlieterCristian\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
+E:\c#\SchlieterCristian\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb

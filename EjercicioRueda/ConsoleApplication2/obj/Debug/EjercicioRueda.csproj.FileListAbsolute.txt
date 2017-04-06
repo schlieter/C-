@@ -1,0 +1,2 @@
+F:\c#\SchlieterCristian\EjercicioRueda\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+F:\c#\SchlieterCristian\EjercicioRueda\ConsoleApplication2\obj\Debug\EjercicioRueda.csprojResolveAssemblyReference.cache
