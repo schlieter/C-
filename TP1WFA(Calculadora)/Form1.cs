@@ -52,7 +52,7 @@ namespace TP1WFA_Calculadora_
         {
             CC();
         }
-        public void CC()//OK
+        public void CC()
         {
             this.lblResultado.Text = "0";
             this.txtNumero1.Text = miNumero1.numero.ToString();
