@@ -1,0 +1,6 @@
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\bin\Debug\SchlieterCristian.exe.config
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\bin\Debug\SchlieterCristian.exe
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\bin\Debug\SchlieterCristian.pdb
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\obj\Debug\SchlieterCristian.csprojResolveAssemblyReference.cache
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\obj\Debug\SchlieterCristian.exe
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\obj\Debug\SchlieterCristian.pdb

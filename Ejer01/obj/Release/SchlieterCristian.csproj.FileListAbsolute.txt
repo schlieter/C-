@@ -1,0 +1,5 @@
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\bin\Release\SchlieterCristian.exe.config
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\bin\Release\SchlieterCristian.exe
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\bin\Release\SchlieterCristian.pdb
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\obj\Release\SchlieterCristian.exe
+D:\VisualStudio\SchlieterCristian\SchlieterCristian\obj\Release\SchlieterCristian.pdb
