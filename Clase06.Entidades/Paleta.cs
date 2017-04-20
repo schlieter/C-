@@ -11,17 +11,14 @@ namespace Clase06.Entidades
         private Tempera[] _colores;
         private int _cantidadMaximaColores;
 
-
-
-
-        private Paleta()
-            : this(5)
+        private Paleta(): this(5)
         { }
         private Paleta(int a)
         {
             this._colores = new Tempera[a];
             this._cantidadMaximaColores = a;
         }
+
         public static implicit operator Paleta(int a)
         {
             Paleta miPaleta = new Paleta(a);
@@ -113,6 +110,7 @@ namespace Clase06.Entidades
             int i;
             for (i = 0; i < this._colores.GetLength(0); i++)
             {
+                //if(this._colores.GetValue(i)
                 if (this._colores[i] == null)
                     return i;
             }
@@ -123,6 +121,7 @@ namespace Clase06.Entidades
             int i;
             for (i = 0; i < this._colores.GetLength(0); i++)
             {
+                //if(this._colores.GetValue(i)
                 if (this._colores[i] == t1)
                     return i;
             }

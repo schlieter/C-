@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase06.Entidades\bin\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase06.Entidades\bin\Debug\Clase06.Entidades.pdb
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase06.Entidades\obj\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase06.Entidades\obj\Debug\Clase06.Entidades.pdb

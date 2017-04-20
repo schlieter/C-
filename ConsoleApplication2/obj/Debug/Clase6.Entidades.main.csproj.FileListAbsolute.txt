@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\bin\Debug\Clase06.Entidades.dll
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\bin\Debug\Clase06.Entidades.pdb
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\obj\Debug\Clase6.Entidades.main.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\alumno\Desktop\c#\SchlieterCristian\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
