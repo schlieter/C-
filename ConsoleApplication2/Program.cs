@@ -21,6 +21,9 @@ namespace ConsoleApplication2
             Tempera temp6 = new Tempera(ConsoleColor.Blue, "azul", 3);
 
             a += temp;
+            a += temp2;
+            b += temp3;
+            b += temp6;
         }
     }
 }

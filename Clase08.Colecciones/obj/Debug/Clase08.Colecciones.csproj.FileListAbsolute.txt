@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe.config
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb
+C:\Users\alumno\Desktop\c#\SchlieterCristian\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.csprojResolveAssemblyReference.cache

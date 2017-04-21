@@ -70,7 +70,7 @@ namespace Clase06.Entidades
             }
             else
             {
-                p1._colores[i] = p1._colores[i] + t1;
+                p1._colores[i] = p1._colores[i] + t1;//ver
             }
             return p1;
         }
@@ -110,8 +110,7 @@ namespace Clase06.Entidades
             int i;
             for (i = 0; i < this._colores.GetLength(0); i++)
             {
-                //if(this._colores.GetValue(i)
-                if (this._colores[i] == null)
+                if (this._colores.GetValue(i) == null)
                     return i;
             }
             return -1;
@@ -121,9 +120,11 @@ namespace Clase06.Entidades
             int i;
             for (i = 0; i < this._colores.GetLength(0); i++)
             {
-                //if(this._colores.GetValue(i)
-                if (this._colores[i] == t1)
-                    return i;
+                if (this._colores.GetValue(i) != null && t1 != null)
+                {
+                    if (this._colores[i] == t1)
+                        return i;
+                }
             }
             return -1;
         }
