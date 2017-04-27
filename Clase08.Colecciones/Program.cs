@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
-using Clase06.Entidades;
+
+
 
 namespace Clase08.Colecciones
 {
@@ -30,13 +31,13 @@ namespace Clase08.Colecciones
             }
             
             Queue cola = new Queue();
-            c
+            
 
             cola.Enqueue(t1);
             cola.Enqueue(t2);
             cola.Enqueue(t3);
             int i, j;
-
+            
             for (i = 0; i < 3; i++)
             {
                 cola.Enqueue(i + 1);
@@ -89,7 +90,7 @@ namespace Clase08.Colecciones
             {
                 Console.WriteLine("{0}", (string)(Tempera)j);
                 Console.ReadLine();
-            }*/
+            }
 
             Hashtable HT = new Hashtable();
 
@@ -101,7 +102,33 @@ namespace Clase08.Colecciones
             {
                 Console.WriteLine("{0}", HT[j]);
                 Console.ReadLine();
-            }
+            }*/
+/*
+            Tempera t1 = new Tempera(ConsoleColor.Blue, "alba", 2);
+            Tempera t2 = new Tempera(ConsoleColor.Green, "alba", 3);
+            Tempera t3 = new Tempera(ConsoleColor.Red, "Sherwin", 4);
+
+            Paleta paleta1 = 5;
+            Paleta paleta2 = 5;
+            Paleta paleta3 = 5;
+
+            paleta1 += t1;
+            paleta1 += t2;
+            paleta1 += t3;
+
+
+
+            paleta2 += t1;
+            paleta2 += t2;
+            paleta2 += t2;
+
+
+            */
+            
+            
+            
+
+
         }
     }
 }
