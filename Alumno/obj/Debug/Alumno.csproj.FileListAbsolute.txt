@@ -1,0 +1,6 @@
+E:\c#\SchlieterCristian\Alumno\obj\Debug\Alumno.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\Alumno\bin\Debug\Alumno.exe.config
+E:\c#\SchlieterCristian\Alumno\bin\Debug\Alumno.exe
+E:\c#\SchlieterCristian\Alumno\bin\Debug\Alumno.pdb
+E:\c#\SchlieterCristian\Alumno\obj\Debug\Alumno.exe
+E:\c#\SchlieterCristian\Alumno\obj\Debug\Alumno.pdb
