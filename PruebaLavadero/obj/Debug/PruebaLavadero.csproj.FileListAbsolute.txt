@@ -1,0 +1,8 @@
+E:\c#\SchlieterCristian\PruebaLavadero\obj\Debug\PruebaLavadero.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\PruebaLavadero\bin\Debug\PruebaLavadero.exe.config
+E:\c#\SchlieterCristian\PruebaLavadero\bin\Debug\PruebaLavadero.exe
+E:\c#\SchlieterCristian\PruebaLavadero\bin\Debug\PruebaLavadero.pdb
+E:\c#\SchlieterCristian\PruebaLavadero\bin\Debug\Vehiculo.dll
+E:\c#\SchlieterCristian\PruebaLavadero\bin\Debug\Vehiculo.pdb
+E:\c#\SchlieterCristian\PruebaLavadero\obj\Debug\PruebaLavadero.exe
+E:\c#\SchlieterCristian\PruebaLavadero\obj\Debug\PruebaLavadero.pdb
