@@ -1,0 +1,2 @@
+D:\VisualStudio\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\c#\Schlieter.Cristian.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
