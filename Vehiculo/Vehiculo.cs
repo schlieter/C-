@@ -45,17 +45,17 @@ namespace Vehiculo
         {
             return !(a == b);
         }
-
-        public static int CompararPatenteAscendente(Vehiculo a, Vehiculo b)
+        public override bool Equals(object obj)
         {
-            //return string.Compare(a.Patente, b.Patente);
-            return a.Patente.CompareTo(b.Patente);
+            if (obj is Vehiculo)
+            {
+                if (((Vehiculo)obj) == this)
+                    return true;
+                else
+                    return false;
+            }
+            else
+                return false;
         }
-        public static int CompararPatenteDescendente(Vehiculo b, Vehiculo a)
-        {
-            //return string.Compare(a.Patente, b.Patente);
-            return a.Patente.CompareTo(b.Patente);
-        }
-        
     }
 }

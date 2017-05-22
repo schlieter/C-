@@ -1,0 +1,8 @@
+E:\c#\SchlieterCristian\TestClase11\bin\Debug\TestClase11.exe.config
+E:\c#\SchlieterCristian\TestClase11\obj\Debug\TestClase11.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\TestClase11\bin\Debug\TestClase11.exe
+E:\c#\SchlieterCristian\TestClase11\bin\Debug\TestClase11.pdb
+E:\c#\SchlieterCristian\TestClase11\bin\Debug\Clase10.dll
+E:\c#\SchlieterCristian\TestClase11\bin\Debug\Clase10.pdb
+E:\c#\SchlieterCristian\TestClase11\obj\Debug\TestClase11.exe
+E:\c#\SchlieterCristian\TestClase11\obj\Debug\TestClase11.pdb

@@ -27,16 +27,31 @@ namespace Vehiculo
 
         public string lavadero 
         {
-            get { return this._precioAuto.ToString() + this._precioCamion.ToString() + this._precioMoto.ToString() + Vehiculos; }
+            get
+            {
+                string retorno = "Precio Auto: " + this._precioAuto.ToString() + "// Precio Camion: " + this._precioCamion.ToString() + "// Precio Moto: " + this._precioMoto.ToString() + "\n";
+                foreach (Vehiculo a in this._vehiculos)
+                {
+                    if (a is Auto)
+                    {
+                        retorno = retorno + ((Auto)a).MostrarAuto() + "\n";
+                    }
+                    else if (a is Camion)
+                    {
+                        retorno = retorno + ((Camion)a).MostrarCamion() + "\n";
+                    }
+                    else if (a is Moto)
+                    {
+                        retorno = retorno + ((Moto)a).MostrarMoto() + "\n";
+                    }
+                }
+                return retorno;
+            }
         }
-
-        public string Vehiculos
+        
+        public List<Vehiculo> Vehiculos
         {
-            get { string v = "";
-                  foreach (Vehiculo a in this._vehiculos)
-                  { v = v + a.Marca + a.Patente + "\n"; }
-                  return v;
-                  }
+            get {return this._vehiculos;}
         }
 
         public Double MostrarTotalFacturado()
@@ -89,7 +104,15 @@ namespace Vehiculo
             }
             return l;
         }
-        //FALTA SOBRECARGA DEL OPERADOR -
+        public static Lavadero operator -(Lavadero l, Vehiculo v)
+        {
+            if (v == l)
+            {
+                l._vehiculos.Remove(v);
+                return l;
+            }
+            return l;
+        }
 
         public static int CompararPatenteAscendente(Vehiculo a, Vehiculo b)
         {
@@ -101,16 +124,20 @@ namespace Vehiculo
             //return string.Compare(a.Patente, b.Patente);
             return b.Patente.CompareTo(a.Patente);
         }
-
-        public int CompararMarcaAscendente(Vehiculo a, Vehiculo b)
+        //
+        //
+        //De instancia tienen que ser estos
+        //
+        //
+        public static int CompararMarcaAscendente(Vehiculo a, Vehiculo b)
         {
             return string.Compare(a.Patente, b.Patente);
             //return a.Marca.CompareTo(b.Marca);
         }
-        public int CompararMarcaDescendente(Vehiculo a, Vehiculo b)
+        public static int CompararMarcaDescendente(Vehiculo a, Vehiculo b)
         {
-            //return string.Compare(a.Patente, b.Patente);
-            return b.Marca.CompareTo(a.Marca);
+            return string.Compare(b.Patente, a.Patente);
+            //return b.Marca.CompareTo(a.Marca);
         }
         
 

@@ -1,0 +1,5 @@
+E:\c#\SchlieterCristian\Clase10\bin\Debug\Clase10.dll
+E:\c#\SchlieterCristian\Clase10\bin\Debug\Clase10.pdb
+E:\c#\SchlieterCristian\Clase10\obj\Debug\Clase10.dll
+E:\c#\SchlieterCristian\Clase10\obj\Debug\Clase10.pdb
+E:\c#\SchlieterCristian\Clase10\obj\Debug\Clase11.csprojResolveAssemblyReference.cache

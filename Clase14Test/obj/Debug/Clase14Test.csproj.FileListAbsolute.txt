@@ -1,0 +1,16 @@
+E:\c#\SchlieterCristian\Clase14Test\bin\Debug\Clase14Test.exe.config
+E:\c#\SchlieterCristian\Clase14Test\bin\Debug\Clase14Test.exe
+E:\c#\SchlieterCristian\Clase14Test\bin\Debug\Clase14Test.pdb
+E:\c#\SchlieterCristian\Clase14Test\bin\Debug\ClaseNumero.dll
+E:\c#\SchlieterCristian\Clase14Test\bin\Debug\ClaseNumero.pdb
+E:\c#\SchlieterCristian\Clase14Test\obj\Debug\Clase14Test.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\Clase14Test\obj\Debug\Clase14Test.exe
+E:\c#\SchlieterCristian\Clase14Test\obj\Debug\Clase14Test.pdb
+F:\c#\SchlieterCristian\Clase14Test\bin\Debug\Clase14Test.exe.config
+F:\c#\SchlieterCristian\Clase14Test\obj\Debug\Clase14Test.exe
+F:\c#\SchlieterCristian\Clase14Test\obj\Debug\Clase14Test.pdb
+F:\c#\SchlieterCristian\Clase14Test\bin\Debug\Clase14Test.exe
+F:\c#\SchlieterCristian\Clase14Test\bin\Debug\Clase14Test.pdb
+F:\c#\SchlieterCristian\Clase14Test\bin\Debug\ClaseNumero.dll
+F:\c#\SchlieterCristian\Clase14Test\bin\Debug\ClaseNumero.pdb
+F:\c#\SchlieterCristian\Clase14Test\obj\Debug\Clase14Test.csprojResolveAssemblyReference.cache

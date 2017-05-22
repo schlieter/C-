@@ -4,3 +4,8 @@ E:\c#\SchlieterCristian\Vehiculo\bin\Debug\Vehiculo.dll
 E:\c#\SchlieterCristian\Vehiculo\bin\Debug\Vehiculo.pdb
 E:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.dll
 E:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.pdb
+F:\c#\SchlieterCristian\Vehiculo\bin\Debug\Vehiculo.dll
+F:\c#\SchlieterCristian\Vehiculo\bin\Debug\Vehiculo.pdb
+F:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.csprojResolveAssemblyReference.cache
+F:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.dll
+F:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.pdb
