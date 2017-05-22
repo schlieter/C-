@@ -1,0 +1,11 @@
+E:\c#\SchlieterCristian\Clase13Test\bin\Debug\Clase13Test.exe.config
+E:\c#\SchlieterCristian\Clase13Test\bin\Debug\Clase13Test.exe
+E:\c#\SchlieterCristian\Clase13Test\bin\Debug\Clase13Test.pdb
+E:\c#\SchlieterCristian\Clase13Test\bin\Debug\Clase13.dll
+E:\c#\SchlieterCristian\Clase13Test\bin\Debug\Clase13.pdb
+E:\c#\SchlieterCristian\Clase13Test\obj\Debug\Clase13Test.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\Clase13Test\obj\Debug\Clase13Test.exe
+E:\c#\SchlieterCristian\Clase13Test\obj\Debug\Clase13Test.pdb
+F:\c#\SchlieterCristian\Clase13Test\bin\Debug\Clase13Test.exe.config
+F:\c#\SchlieterCristian\Clase13Test\obj\Debug\Clase13Test.exe
+F:\c#\SchlieterCristian\Clase13Test\obj\Debug\Clase13Test.pdb

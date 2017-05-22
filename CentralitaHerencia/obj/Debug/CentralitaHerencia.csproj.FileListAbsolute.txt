@@ -1,0 +1,6 @@
+F:\c#\SchlieterCristian\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+F:\c#\SchlieterCristian\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+F:\c#\SchlieterCristian\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+F:\c#\SchlieterCristian\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\c#\SchlieterCristian\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\c#\SchlieterCristian\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

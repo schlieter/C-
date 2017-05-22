@@ -1,0 +1,12 @@
+F:\c#\SchlieterCristian\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
+F:\c#\SchlieterCristian\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojResolveAssemblyReference.cache
+F:\c#\SchlieterCristian\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+F:\c#\SchlieterCristian\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+F:\c#\SchlieterCristian\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+F:\c#\SchlieterCristian\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb
+E:\c#\SchlieterCristian\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
+E:\c#\SchlieterCristian\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+E:\c#\SchlieterCristian\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb
+E:\c#\SchlieterCristian\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+E:\c#\SchlieterCristian\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+E:\c#\SchlieterCristian\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojResolveAssemblyReference.cache
