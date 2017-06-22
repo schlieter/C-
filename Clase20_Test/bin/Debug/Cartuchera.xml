@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartucheraOfUtiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Capacidad>3</Capacidad>
+  <Marca>Karpatos</Marca>
+  <Utiles>
+    <Utiles xsi:type="Lapicera">
+      <Precio>3</Precio>
+      <Marca>BIC</Marca>
+      <Color>Black</Color>
+      <Trazo>medio</Trazo>
+    </Utiles>
+    <Utiles xsi:type="Lapicera">
+      <Precio>0</Precio>
+      <Color>Blue</Color>
+      <Trazo>fino</Trazo>
+    </Utiles>
+    <Utiles xsi:type="Goma">
+      <Precio>0</Precio>
+      <SoloLapiz>true</SoloLapiz>
+    </Utiles>
+  </Utiles>
+</CartucheraOfUtiles>
