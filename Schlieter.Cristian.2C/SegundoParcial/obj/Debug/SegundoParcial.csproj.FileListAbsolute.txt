@@ -1,0 +1,7 @@
+F:\Schlieter.Cristian.2C\Schlieter.Cristian.2C\SegundoParcial\obj\Debug\SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\SegundoParcial\obj\Debug\SegundoParcial.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\SegundoParcial\bin\Debug\SegundoParcial.dll.config
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\SegundoParcial\bin\Debug\SegundoParcial.dll
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\SegundoParcial\obj\Debug\SegundoParcial.dll
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\SegundoParcial\obj\Debug\SegundoParcial.pdb

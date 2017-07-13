@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CajonOfFruta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Frutas>
+    <Fruta xsi:type="Platano">
+      <Peso>0.2</Peso>
+      <Color>Yellow</Color>
+      <paisOrigen>Ecuador</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <Peso>0.15</Peso>
+      <Color>Yellow</Color>
+      <paisOrigen>Brasil</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <Peso>0.3</Peso>
+      <Color>Red</Color>
+      <distribuidora>Manzanita</distribuidora>
+    </Fruta>
+  </Frutas>
+  <Capacidad>3</Capacidad>
+  <RutaArchivo>Cajon.xml</RutaArchivo>
+</CajonOfFruta>

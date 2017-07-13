@@ -1,0 +1,9 @@
+F:\Schlieter.Cristian.2C\Schlieter.Cristian.2C\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\bin\Debug\SegundoParcial.dll
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\bin\Debug\SegundoParcial.pdb
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Schlieter.Cristian.2C\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
